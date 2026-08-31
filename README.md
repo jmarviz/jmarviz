@@ -1,16 +1,27 @@
-## Hi there 👋
+En transición profesional hacia ciberseguridad. Actualmente cursando CCST (IT Support, Networking, Cybersecurity) en Cisco Networking Academy, camino a CCNA Cybersecurity.
 
-<!--
-**jmarviz/jmarviz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Formación previa
+- 🎓 CFGM Sistemas Microinformáticos y Redes - completado
+- 🎓 CFGS Administración de Sistemas Informáticos en Red — en curso
 
-Here are some ideas to get you started:
+## Itinerario — IT Academy (Barcelona Activa · Cisco Networking Academy)
+- [ ] 🛡️ CCST IT Support
+- [ ] 🛡️ CCST Networking
+- [ ] 🛡️ CCST Cybersecurity
+- [ ] 🛡️ CCNA Cybersecurity — Analista Nivell 1 de SOC
+- [ ] 🛡️ Network Security (insignia Cisco)
+- [ ] 🛡️ Ethical Hacker (insignia Cisco)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Refuerzo por mi cuenta
+- [ ] 📡 Redes: Fundamentos de Networking (Josep Ricart)
+- [ ] 📡 Redes: Direccionamiento IP y Subnetting (Josep Ricart)
+- [x] 🐧 Linux: NDG Linux Unhatched
+- [ ] 🐧 Linux: NDG Linux Essentials
+- [x] 🇬🇧 English for IT 1
+- [ ] 🇬🇧 English for IT 2
+
+## Certificaciones
+(se irán añadiendo aquí, con fecha, a medida que las apruebe)
+
+## Contacto
+https://www.linkedin.com/in/jmarviz/
