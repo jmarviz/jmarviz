@@ -13,8 +13,12 @@ En transición profesional hacia ciberseguridad. Actualmente cursando CCST (IT S
 - [ ] 🛡️ Ethical Hacker (insignia Cisco)
 
 ## Refuerzo por mi cuenta
-- [ ] 📡 Redes: Fundamentos de Networking (Josep Ricart)
-- [ ] 📡 Redes: Direccionamiento IP y Subnetting (Josep Ricart)
+- [x] 📡 Redes: Fundamentos de Networking
+- [ ] 📡 Redes: Direccionamiento IP y Subnetting
+- [ ] 📡 Redes: Wireshark de 0 a Experto: Diagnóstico Redes y Ciberseguridad (Fase 1 CCST)
+- [ ] 📡 Redes: Wireshark Master: Análisis de Tráfico y Seguridad en Redes (Fase 2.1 CCNA)
+- [ ] 📡 Redes: Curso Redes Avanzado - ARP Troubleshooting y Ciberseguridad (Fase 2.2 Network Security)
+- [ ] 📡 Redes: Hacking Ético 2026: Curso de Wireshark Para Pentesting (Fase 2.3 Ethical Hacker)
 - [x] 🐧 Linux: NDG Linux Unhatched
 - [ ] 🐧 Linux: NDG Linux Essentials
 - [x] 🇬🇧 English for IT 1
