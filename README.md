@@ -14,7 +14,7 @@ En transición profesional hacia ciberseguridad. Actualmente cursando CCST (IT S
 
 ## Refuerzo por mi cuenta
 - [x] 📡 Redes: Fundamentos de Networking
-- [ ] 📡 Redes: Direccionamiento IP y Subnetting
+- [x] 📡 Redes: Direccionamiento IP y Subnetting
 - [ ] 📡 Redes: Wireshark de 0 a Experto: Diagnóstico Redes y Ciberseguridad (Fase 1 CCST)
 - [ ] 📡 Redes: Wireshark Master: Análisis de Tráfico y Seguridad en Redes (Fase 2.1 CCNA)
 - [ ] 📡 Redes: Curso Redes Avanzado - ARP Troubleshooting y Ciberseguridad (Fase 2.2 Network Security)
