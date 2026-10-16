@@ -1,3 +1,5 @@
+# Hola, soy Juan 👋
+
 En transición profesional hacia ciberseguridad. Actualmente cursando CCST (IT Support, Networking, Cybersecurity) en Cisco Networking Academy, camino a CCNA Cybersecurity.
 
 ## Formación previa
@@ -5,7 +7,7 @@ En transición profesional hacia ciberseguridad. Actualmente cursando CCST (IT S
 - 🎓 CFGS Administración de Sistemas Informáticos en Red — en curso
 
 ## Itinerario — IT Academy (Barcelona Activa · Cisco Networking Academy)
-- [ ] 🛡️ CCST IT Support
+- [x] 🛡️ CCST IT Support
 - [ ] 🛡️ CCST Networking
 - [ ] 🛡️ CCST Cybersecurity
 - [ ] 🛡️ CCNA Cybersecurity — Analista Nivell 1 de SOC
@@ -25,7 +27,7 @@ En transición profesional hacia ciberseguridad. Actualmente cursando CCST (IT S
 - [ ] 🇬🇧 English for IT 2
 
 ## Certificaciones
-(se irán añadiendo aquí, con fecha, a medida que las apruebe)
+- ✅ Cisco Certified Support Technician (CCST) IT Support — 16 de octubre de 2026
 
 ## Contacto
 https://www.linkedin.com/in/jmarviz/
